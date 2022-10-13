@@ -2,6 +2,12 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import os
+from pandas.api.types import (
+    is_categorical_dtype,
+    is_datetime64_any_dtype,
+    is_numeric_dtype,
+    is_object_dtype,
+)
 
 # header
 st.title('Retrenchment Change Dataset')
@@ -59,14 +65,14 @@ def comparison_by_industry():
     select_industry = sorted(df["Industry"].unique())
     select_industry_dropdown = st.multiselect('Select 1 or more Industries(s):', select_industry)
 
+    selected_industry_years = df[
+        (df.Industry.isin(select_industry_dropdown)) &
+        ((df.Year >= start_year) & (df.Year <= end_year))]
+
     # find max year and min year of data
     # select_year_range = sorted(df["Year"].unique())
     # year_max = df["Year"].max()
     # year_min = df["Year"].min()
-
-    selected_industry_years = df[
-        (df.Industry.isin(select_industry_dropdown)) &
-        ((df.Year >= start_year) & (df.Year <= end_year))]
 
     st.dataframe(selected_industry_years.reset_index(drop=True), use_container_width=True)
 
@@ -223,7 +229,7 @@ def quantity():
 
 
 def rate_of_reentry():
-    path = "C:/Users/anqia/1002 project/rate-of-re-entry-into-employment-annual/"
+    path = "datasets/rate-of-re-entry-into-employment-annual/"
     files = os.listdir(path)
 
     file_list = [os.path.splitext(file)[0] for file in files]
