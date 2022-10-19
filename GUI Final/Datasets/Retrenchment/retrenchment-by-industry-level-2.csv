@@ -1,0 +1,461 @@
+year,industry1,industry2,retrench,retrench_permanent,retrench_term_contract
+1998,manufacturing,"food, beverages and tobacco",230,230,-
+1998,manufacturing,textile and wearing apparel,310,310,10
+1998,manufacturing,paper products and publishing,510,510,-
+1998,manufacturing,petroleum and chemical products,500,490,10
+1998,manufacturing,rubber and plastic products,1100,1060,50
+1998,manufacturing,fabricated metal products,1080,1060,20
+1998,manufacturing,machinery and equipment,1840,1550,280
+1998,manufacturing,electrical products,1520,1510,10
+1998,manufacturing,electronic products,11340,10080,1260
+1998,manufacturing,medical and precision instruments,270,260,10
+1998,manufacturing,transport equipment,240,210,30
+1998,manufacturing,other manufacturing industries,1760,1660,100
+1998,construction,construction,2450,1210,1240
+1998,services,wholesale and retail trade,3990,3590,400
+1998,services,hotels and restaurants,1400,1390,20
+1998,services,"transport, storage and communications",820,800,30
+1998,services,financial intermediation,1480,1450,40
+1998,services,real estate and business,1590,1420,170
+1998,services,community,340,300,40
+1998,others,others,30,-,30
+1999,manufacturing,"food, beverages and tobacco",450,390,60
+1999,manufacturing,textile and wearing apparel,30,30,-
+1999,manufacturing,paper products and publishing,150,150,-
+1999,manufacturing,petroleum and chemical products,310,310,-
+1999,manufacturing,rubber and plastic products,300,300,-
+1999,manufacturing,fabricated metal products,270,260,10
+1999,manufacturing,machinery and equipment,490,450,40
+1999,manufacturing,electrical products,330,330,-
+1999,manufacturing,electronic products,5200,5010,190
+1999,manufacturing,medical and precision instruments,90,90,-
+1999,manufacturing,transport equipment,600,530,70
+1999,manufacturing,other manufacturing industries,160,160,-
+1999,construction,construction,830,520,320
+1999,services,wholesale and retail trade,2310,2270,40
+1999,services,hotels and restaurants,550,550,10
+1999,services,"transport, storage and communications",580,560,20
+1999,services,financial intermediation,1580,1520,70
+1999,services,real estate and business,1080,1000,70
+1999,services,community,210,210,-
+1999,others,others,10,-,-
+2000,manufacturing,"food, beverages and tobacco",90,90,-
+2000,manufacturing,paper products and printing,10,10,-
+2000,manufacturing,"petroleum, chemical and pharmaceutical products",200,200,-
+2000,manufacturing,rubber and plastic products,70,70,-
+2000,manufacturing,fabricated metal products,290,280,10
+2000,manufacturing,machinery and equipment,310,310,-
+2000,manufacturing,electrical products,70,70,10
+2000,manufacturing,electronic products,5990,5980,10
+2000,manufacturing,medical and precision instruments,10,10,-
+2000,manufacturing,transport equipment,210,150,60
+2000,manufacturing,other manufacturing industries,260,260,-
+2000,construction,construction,380,250,130
+2000,services,wholesale and retail trade,1010,980,20
+2000,services,transport and storage,640,630,10
+2000,services,hotels and restaurants,440,440,-
+2000,services,information and communications,410,400,10
+2000,services,financial services,920,920,10
+2000,services,real estate and leasing services,40,40,-
+2000,services,professional services,510,470,40
+2000,services,administrative and support services,30,10,20
+2000,services,"community, social and personal services",90,80,-
+2000,others,others,-,-,-
+2001,manufacturing,"food, beverages and tobacco",100,100,-
+2001,manufacturing,paper products and printing,130,130,-
+2001,manufacturing,"petroleum, chemical and pharmaceutical products",320,310,10
+2001,manufacturing,rubber and plastic products,1430,1220,210
+2001,manufacturing,fabricated metal products,880,850,30
+2001,manufacturing,machinery and equipment,1180,1140,50
+2001,manufacturing,electrical products,620,620,-
+2001,manufacturing,electronic products,9800,8900,900
+2001,manufacturing,medical and precision instruments,250,220,20
+2001,manufacturing,transport equipment,230,220,-
+2001,manufacturing,other manufacturing industries,750,730,20
+2001,construction,construction,900,700,210
+2001,services,wholesale and retail trade,2970,2960,20
+2001,services,transport and storage,1100,1070,30
+2001,services,hotels and restaurants,240,230,10
+2001,services,information and communications,1690,1620,70
+2001,services,financial services,2520,2500,30
+2001,services,real estate and leasing services,100,100,-
+2001,services,professional services,1710,1610,100
+2001,services,administrative and support services,270,250,20
+2001,services,"community, social and personal services",180,170,10
+2001,others,others,200,200,-
+2002,manufacturing,"food, beverages and tobacco",80,80,-
+2002,manufacturing,paper products and printing,430,430,-
+2002,manufacturing,"petroleum, chemical and pharmaceutical products",260,250,-
+2002,manufacturing,rubber and plastic products,710,650,60
+2002,manufacturing,fabricated metal products,1440,1420,20
+2002,manufacturing,machinery and equipment,990,960,30
+2002,manufacturing,electrical products,800,800,-
+2002,manufacturing,electronic products,4080,3780,310
+2002,manufacturing,medical and precision instruments,100,100,-
+2002,manufacturing,transport equipment,280,190,90
+2002,manufacturing,other manufacturing industries,500,490,10
+2002,construction,construction,1000,850,150
+2002,services,wholesale and retail trade,2370,2310,60
+2002,services,transport and storage,530,480,40
+2002,services,hotels and restaurants,390,380,10
+2002,services,information and communications,1730,1700,30
+2002,services,financial services,2780,2760,10
+2002,services,real estate and leasing services,220,220,-
+2002,services,professional services,970,900,70
+2002,services,administrative and support services,110,100,20
+2002,services,"community, social and personal services",200,170,30
+2002,others,others,180,80,100
+2003,manufacturing,"food, beverages and tobacco",170,170,-
+2003,manufacturing,paper products and printing,220,210,10
+2003,manufacturing,"petroleum, chemical and pharmaceutical products",270,270,-
+2003,manufacturing,rubber and plastic products,580,540,40
+2003,manufacturing,fabricated metal products,670,660,-
+2003,manufacturing,machinery and equipment,500,480,10
+2003,manufacturing,electrical products,250,250,10
+2003,manufacturing,electronic products,3780,3720,60
+2003,manufacturing,medical and precision instruments,210,210,-
+2003,manufacturing,transport equipment,450,330,120
+2003,manufacturing,other manufacturing industries,410,400,-
+2003,construction,construction,740,630,120
+2003,services,wholesale and retail trade,2440,2290,150
+2003,services,transport and storage,2090,2010,80
+2003,services,hotels and restaurants,430,430,10
+2003,services,information and communications,880,790,80
+2003,services,financial services,1550,1530,20
+2003,services,real estate and leasing services,130,120,10
+2003,services,professional services,760,650,110
+2003,services,administrative and support services,240,220,20
+2003,services,"community, social and personal services",250,230,20
+2003,others,others,270,270,10
+2004,manufacturing,"food, beverages and tobacco",140,140,-
+2004,manufacturing,paper products and printing,60,50,-
+2004,manufacturing,"petroleum, chemical and pharmaceutical products",490,490,-
+2004,manufacturing,rubber and plastic products,410,400,10
+2004,manufacturing,fabricated metal products,280,280,-
+2004,manufacturing,machinery and equipment,360,340,10
+2004,manufacturing,electrical products,370,370,-
+2004,manufacturing,electronic products,1810,1650,160
+2004,manufacturing,medical and precision instruments,150,140,-
+2004,manufacturing,transport equipment,140,120,30
+2004,manufacturing,other manufacturing industries,500,500,-
+2004,construction,construction,410,370,30
+2004,services,wholesale and retail trade,1260,1240,20
+2004,services,transport and storage,1080,1030,60
+2004,services,hotels and restaurants,610,580,30
+2004,services,information and communications,500,460,40
+2004,services,financial services,1020,1010,10
+2004,services,real estate and leasing services,90,90,-
+2004,services,professional services,260,260,10
+2004,services,administrative and support services,100,80,20
+2004,services,"community, social and personal services",300,280,20
+2004,others,others,310,310,-
+2005,manufacturing,"food, beverages and tobacco",90,90,-
+2005,manufacturing,paper products and printing,60,60,-
+2005,manufacturing,"petroleum, chemical and pharmaceutical products",150,140,-
+2005,manufacturing,rubber and plastic products,670,670,-
+2005,manufacturing,fabricated metal products,440,410,30
+2005,manufacturing,machinery and equipment,390,380,10
+2005,manufacturing,electrical products,370,370,10
+2005,manufacturing,electronic products,4300,4090,200
+2005,manufacturing,medical and precision instruments,80,80,10
+2005,manufacturing,transport equipment,30,20,-
+2005,manufacturing,other manufacturing industries,500,490,10
+2005,construction,construction,540,210,330
+2005,services,wholesale and retail trade,980,920,60
+2005,services,transport and storage,290,280,20
+2005,services,hotels and restaurants,80,80,10
+2005,services,information and communications,650,590,60
+2005,services,financial services,690,690,10
+2005,services,real estate and leasing services,80,80,10
+2005,services,professional services,340,310,30
+2005,services,administrative and support services,70,60,10
+2005,services,"community, social and personal services",310,270,40
+2005,others,others,20,10,-
+2006,manufacturing,"food, beverages and tobacco",140,140,-
+2006,manufacturing,"paper,rubber,plastic products and printing",260,240,10
+2006,manufacturing,"petroleum, chemical and pharmaceutical products",110,110,-
+2006,manufacturing,"fabricated metal products, machinery and equipment",1120,1100,20
+2006,manufacturing,"electronic, computer and optical products",6630,6570,50
+2006,manufacturing,transport equipment,110,100,10
+2006,manufacturing,other manufacturing industries,500,460,40
+2006,construction,construction,490,390,100
+2006,services,wholesale and retail trade,1010,980,30
+2006,services,transportation and storage,410,390,20
+2006,services,accommodation and food services,230,230,10
+2006,services,information and communications,610,590,20
+2006,services,financial and insurance services,400,400,-
+2006,services,real estate services,150,140,10
+2006,services,professional services,270,250,10
+2006,services,administrative and support services,220,90,130
+2006,services,"community, social and personal services",370,350,20
+2006,others,others,70,70,-
+2007,manufacturing,"food, beverages and tobacco",130,120,20
+2007,manufacturing,"paper,rubber,plastic products and printing",430,420,10
+2007,manufacturing,"petroleum, chemical and pharmaceutical products",50,50,-
+2007,manufacturing,"fabricated metal products, machinery and equipment",1060,970,90
+2007,manufacturing,"electronic, computer and optical products",2290,2210,80
+2007,manufacturing,transport equipment,100,90,10
+2007,manufacturing,other manufacturing industries,1450,1400,50
+2007,construction,construction,70,20,50
+2007,services,wholesale and retail trade,1240,820,420
+2007,services,transportation and storage,270,260,10
+2007,services,accommodation and food services,330,310,20
+2007,services,information and communications,260,190,70
+2007,services,financial and insurance services,180,180,10
+2007,services,real estate services,10,10,-
+2007,services,professional services,280,280,-
+2007,services,administrative and support services,150,110,40
+2007,services,"community, social and personal services",270,240,30
+2007,others,others,20,10,10
+2008,manufacturing,"food, beverages and tobacco",80,50,20
+2008,manufacturing,"paper,rubber,plastic products and printing",840,830,10
+2008,manufacturing,"petroleum, chemical and pharmaceutical products",200,190,10
+2008,manufacturing,"fabricated metal products, machinery and equipment",2040,1560,480
+2008,manufacturing,"electronic, computer and optical products",5320,4150,1170
+2008,manufacturing,transport equipment,800,500,300
+2008,manufacturing,other manufacturing industries,1160,1120,40
+2008,construction,construction,540,240,300
+2008,services,wholesale and retail trade,1530,1400,130
+2008,services,transportation and storage,600,510,80
+2008,services,accommodation and food services,150,130,20
+2008,services,information and communications,400,340,60
+2008,services,financial and insurance services,1440,1410,30
+2008,services,real estate services,70,70,-
+2008,services,professional services,700,620,80
+2008,services,administrative and support services,420,240,180
+2008,services,"community, social and personal services",570,530,40
+2008,others,others,50,30,10
+2009,manufacturing,"food, beverages and tobacco",10,10,-
+2009,manufacturing,"paper,rubber,plastic products and printing",780,700,90
+2009,manufacturing,"petroleum, chemical and pharmaceutical products",230,220,10
+2009,manufacturing,"fabricated metal products, machinery and equipment",3170,2370,800
+2009,manufacturing,"electronic, computer and optical products",6460,6110,350
+2009,manufacturing,transport equipment,1460,1080,390
+2009,manufacturing,other manufacturing industries,1520,1430,90
+2009,construction,construction,980,450,540
+2009,services,wholesale and retail trade,2670,2460,210
+2009,services,transportation and storage,1050,810,240
+2009,services,accommodation and food services,200,170,20
+2009,services,information and communications,590,530,60
+2009,services,financial and insurance services,1840,1810,30
+2009,services,real estate services,140,90,50
+2009,services,professional services,1210,1140,70
+2009,services,administrative and support services,780,480,300
+2009,services,"community, social and personal services",240,210,30
+2009,others,others,90,80,-
+2010,manufacturing,"food, beverages and tobacco",20,20,-
+2010,manufacturing,"paper,rubber,plastic products and printing",470,470,-
+2010,manufacturing,"petroleum, chemical and pharmaceutical products",160,160,-
+2010,manufacturing,"fabricated metal products, machinery and equipment",1570,940,630
+2010,manufacturing,"electronic, computer and optical products",1720,1690,30
+2010,manufacturing,transport equipment,280,230,40
+2010,manufacturing,other manufacturing industries,270,270,-
+2010,construction,construction,1350,550,800
+2010,services,wholesale and retail trade,1170,1090,80
+2010,services,transportation and storage,320,300,30
+2010,services,accommodation and food services,130,130,10
+2010,services,information and communications,340,330,10
+2010,services,financial and insurance services,610,590,20
+2010,services,real estate services,130,20,110
+2010,services,professional services,720,490,230
+2010,services,administrative and support services,280,220,60
+2010,services,"community, social and personal services",260,240,20
+2010,others,others,-,-,-
+2011,manufacturing,"food, beverages and tobacco",10,10,-
+2011,manufacturing,"paper,rubber,plastic products and printing",660,640,10
+2011,manufacturing,"petroleum, chemical and pharmaceutical products",330,320,-
+2011,manufacturing,"fabricated metal products, machinery and equipment",630,420,220
+2011,manufacturing,"electronic, computer and optical products",2020,2010,10
+2011,manufacturing,transport equipment,180,60,120
+2011,manufacturing,other manufacturing industries,640,460,190
+2011,construction,construction,1050,470,580
+2011,services,wholesale and retail trade,1050,980,70
+2011,services,transportation and storage,230,150,80
+2011,services,accommodation and food services,350,350,-
+2011,services,information and communications,480,410,70
+2011,services,financial and insurance services,860,840,20
+2011,services,real estate services,130,80,50
+2011,services,professional services,940,790,150
+2011,services,administrative and support services,130,90,40
+2011,services,"community, social and personal services",260,220,40
+2011,others,others,50,50,-
+2012,manufacturing,"food, beverages and tobacco",30,10,10
+2012,manufacturing,"paper,rubber,plastic products and printing",590,540,50
+2012,manufacturing,"petroleum, chemical and pharmaceutical products",240,230,10
+2012,manufacturing,"fabricated metal products, machinery and equipment",750,670,80
+2012,manufacturing,"electronic, computer and optical products",1790,1730,70
+2012,manufacturing,transport equipment,130,40,90
+2012,manufacturing,other manufacturing industries,540,510,30
+2012,construction,construction,650,450,200
+2012,services,wholesale and retail trade,1830,1780,50
+2012,services,transportation and storage,280,260,20
+2012,services,accommodation and food services,270,230,30
+2012,services,information and communications,710,580,130
+2012,services,financial and insurance services,1380,1360,20
+2012,services,real estate services,60,30,30
+2012,services,professional services,1230,870,360
+2012,services,administrative and support services,300,170,130
+2012,services,"community, social and personal services",240,230,20
+2012,others,others,10,10,-
+2013,manufacturing,"food, beverages and tobacco",40,20,10
+2013,manufacturing,"paper,rubber,plastic products and printing",380,360,20
+2013,manufacturing,"petroleum, chemical and pharmaceutical products",220,210,10
+2013,manufacturing,"fabricated metal products, machinery and equipment",690,650,40
+2013,manufacturing,"electronic, computer and optical products",2280,2280,-
+2013,manufacturing,transport equipment,200,150,50
+2013,manufacturing,other manufacturing industries,1200,1170,30
+2013,construction,construction,1120,710,410
+2013,services,wholesale and retail trade,1280,1250,40
+2013,services,transportation and storage,450,320,130
+2013,services,accommodation and food services,220,200,20
+2013,services,information and communications,800,750,60
+2013,services,financial and insurance services,1270,1250,10
+2013,services,real estate services,30,10,20
+2013,services,professional services,960,900,60
+2013,services,administrative and support services,240,140,100
+2013,services,"community, social and personal services",190,170,20
+2013,others,others,10,10,-
+2014,manufacturing,"food, beverages and tobacco",120,120,-
+2014,manufacturing,"paper,rubber,plastic products and printing",150,150,-
+2014,manufacturing,"petroleum, chemical and pharmaceutical products",170,160,10
+2014,manufacturing,"fabricated metal products, machinery and equipment",1350,1070,280
+2014,manufacturing,"electronic, computer and optical products",1290,1280,-
+2014,manufacturing,transport equipment,440,280,160
+2014,manufacturing,other manufacturing industries,460,300,170
+2014,construction,construction,1690,990,700
+2014,services,wholesale and retail trade,2190,2090,100
+2014,services,transportation and storage,470,390,80
+2014,services,accommodation and food services,380,370,20
+2014,services,information and communications,790,570,210
+2014,services,financial and insurance services,1350,1330,20
+2014,services,real estate services,90,90,-
+2014,services,professional services,1520,1410,110
+2014,services,administrative and support services,360,220,140
+2014,services,"community, social and personal services",130,100,30
+2014,others,others,10,10,-
+2015,manufacturing,"food, beverages and tobacco",80,80,10
+2015,manufacturing,"paper,rubber,plastic products and printing",570,560,10
+2015,manufacturing,"petroleum, chemical and pharmaceutical products",320,310,10
+2015,manufacturing,"fabricated metal products, machinery and equipment",1780,1510,270
+2015,manufacturing,"electronic, computer and optical products",1630,1630,10
+2015,manufacturing,transport equipment,570,470,100
+2015,manufacturing,other manufacturing industries,260,240,20
+2015,construction,construction,1780,770,1010
+2015,services,wholesale and retail trade,2180,2100,80
+2015,services,transportation and storage,690,510,180
+2015,services,accommodation and food services,200,190,10
+2015,services,information and communications,710,620,90
+2015,services,financial and insurance services,1760,1700,60
+2015,services,real estate services,50,50,-
+2015,services,professional services,2290,2150,140
+2015,services,administrative and support services,400,270,130
+2015,services,"community, social and personal services",230,210,30
+2015,others,others,80,80,-
+2016,manufacturing,"food, beverages and tobacco",330,290,40
+2016,manufacturing,"paper,rubber,plastic products and printing",410,360,50
+2016,manufacturing,"petroleum, chemical and pharmaceutical products",360,360,-
+2016,manufacturing,"fabricated metal products, machinery and equipment",2400,2240,160
+2016,manufacturing,"electronic, computer and optical products",1670,1670,10
+2016,manufacturing,transport equipment,720,450,270
+2016,manufacturing,other manufacturing industries,390,260,130
+2016,construction,construction,1920,870,1050
+2016,services,wholesale and retail trade,2380,2300,70
+2016,services,transportation and storage,870,720,150
+2016,services,accommodation and food services,350,320,30
+2016,services,information and communications,970,920,50
+2016,services,financial and insurance services,2310,2290,20
+2016,services,real estate services,90,70,10
+2016,services,professional services,2740,2610,130
+2016,services,administrative and support services,340,220,120
+2016,services,"community, social and personal services",850,770,70
+2016,others,others,100,100,-
+2017,manufacturing,"food, beverages and tobacco",190,190,10
+2017,manufacturing,"paper,rubber,plastic products and printing",480,480,-
+2017,manufacturing,"petroleum, chemical and pharmaceutical products",300,290,10
+2017,manufacturing,"fabricated metal products, machinery and equipment",930,800,130
+2017,manufacturing,"electronic, computer and optical products",920,920,10
+2017,manufacturing,transport equipment,820,550,280
+2017,manufacturing,other manufacturing industries,150,110,30
+2017,construction,construction,2020,1190,830
+2017,services,wholesale and retail trade,2180,2150,30
+2017,services,transportation and storage,900,680,220
+2017,services,accommodation and food services,470,450,20
+2017,services,information and communications,910,880,40
+2017,services,financial and insurance services,1780,1770,10
+2017,services,real estate services,70,70,10
+2017,services,professional services,1700,1580,120
+2017,services,administrative and support services,430,400,30
+2017,services,"community, social and personal services",460,380,70
+2017,others,others,20,10,-
+2018,manufacturing,"food, beverages and tobacco",200,150,50
+2018,manufacturing,"paper,rubber,plastic products and printing",160,160,-
+2018,manufacturing,"petroleum, chemical and pharmaceutical products",180,170,-
+2018,manufacturing,"fabricated metal products, machinery and equipment",870,780,80
+2018,manufacturing,"electronic, computer and optical products",670,570,100
+2018,manufacturing,transport equipment,310,260,50
+2018,manufacturing,other manufacturing industries,190,190,-
+2018,construction,construction,1200,800,400
+2018,services,wholesale and retail trade,1780,1680,100
+2018,services,transportation and storage,710,700,10
+2018,services,accommodation and food services,350,340,10
+2018,services,information and communications,1070,950,120
+2018,services,financial and insurance services,1330,1300,20
+2018,services,real estate services,100,90,10
+2018,services,professional services,1100,1010,100
+2018,services,administrative and support services,240,210,30
+2018,services,"community, social and personal services",290,230,50
+2018,others,others,-,-,-
+2019,manufacturing,"food, beverages and tobacco",100,40,60
+2019,manufacturing,"paper,rubber,plastic products and printing",170,160,10
+2019,manufacturing,"petroleum, chemical and pharmaceutical products",200,190,-
+2019,manufacturing,"fabricated metal products, machinery and equipment",690,650,40
+2019,manufacturing,"electronic, computer and optical products",1160,1080,80
+2019,manufacturing,transport equipment,120,110,10
+2019,manufacturing,other manufacturing industries,360,340,20
+2019,construction,construction,860,500,370
+2019,services,wholesale and retail trade,2090,2030,60
+2019,services,transportation and storage,770,760,10
+2019,services,accommodation and food services,170,150,20
+2019,services,information and communications,650,630,20
+2019,services,financial and insurance services,1300,1280,20
+2019,services,real estate services,190,100,90
+2019,services,professional services,1210,1160,50
+2019,services,administrative and support services,320,300,20
+2019,services,"community, social and personal services",300,280,10
+2019,others,others,30,30,-
+2020,manufacturing,"food, beverages and tobacco",330,310,20
+2020,manufacturing,"paper,rubber,plastic products and printing",230,230,-
+2020,manufacturing,"petroleum, chemical and pharmaceutical products",160,150,10
+2020,manufacturing,"fabricated metal products, machinery and equipment",1410,1190,210
+2020,manufacturing,"electronic, computer and optical products",790,790,-
+2020,manufacturing,transport equipment,1710,1650,50
+2020,manufacturing,other manufacturing industries,700,680,20
+2020,construction,construction,990,750,240
+2020,services,wholesale and retail trade,4980,4790,190
+2020,services,transportation and storage,2780,1410,1370
+2020,services,accommodation and food services,1700,1580,120
+2020,services,information and communications,1200,1160,40
+2020,services,financial and insurance services,2140,2050,80
+2020,services,real estate services,140,140,-
+2020,services,professional services,2380,2040,330
+2020,services,administrative and support services,1770,1270,500
+2020,services,"community, social and personal services",2690,2310,370
+2020,others,others,40,30,10
+2021,manufacturing,"food, beverages and tobacco",110,100,-
+2021,manufacturing,"paper,rubber,plastic products and printing",70,70,-
+2021,manufacturing,"petroleum, chemical and pharmaceutical products",500,450,50
+2021,manufacturing,"fabricated metal products, machinery and equipment",150,140,10
+2021,manufacturing,"electronic, computer and optical products",690,680,-
+2021,manufacturing,transport equipment,130,130,-
+2021,manufacturing,other manufacturing industries,70,70,-
+2021,construction,construction,240,210,40
+2021,services,wholesale and retail trade,1410,1390,20
+2021,services,transportation and storage,550,510,40
+2021,services,accommodation and food services,180,140,30
+2021,services,information and communications,840,750,90
+2021,services,financial and insurance services,1330,1320,-
+2021,services,real estate services,100,100,-
+2021,services,professional services,920,880,40
+2021,services,administrative and support services,530,330,200
+2021,services,"community, social and personal services",170,160,10
+2021,others,others,50,50,-
