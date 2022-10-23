@@ -1,2 +1,3 @@
 # 1002-Proj
-260922
+
+The purpose of this repo is to create a backlog and a form of version control for our team's Python Project. 
